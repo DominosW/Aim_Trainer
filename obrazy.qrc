@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>aim.png</file>
+        <file>tlo.png</file>
+    </qresource>
+</RCC>
